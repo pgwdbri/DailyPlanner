@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+
+input[type=text]{
+    width:99%;
+    height: 50px;
+}
+
+.current {
+    background: lightblue;
+}
+.past {
+    background: gray;
+}
+.future {
+    background: lightgreen;
+}
